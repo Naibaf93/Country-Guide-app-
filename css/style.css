@@ -64,5 +64,29 @@ body{
 }
 
 .container h2 {
+    font-weight: 600;
+    color: var(--color-text);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 1.8em;
+}
 
+.data-wrapper{
+    margin-bottom: 1em;
+    letter-spacing: 0.3px;
+}
+
+.container h4{
+    display: inline;
+    font-weight: 500;
+    color: var(--color-text);
+}
+
+.container span{
+    color: #5d6274;
+}
+
+.container h3{
+    text-align: center;
 }
